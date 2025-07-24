@@ -72,6 +72,10 @@ Where It Can Be Used:
 
 The checklist is ideal for startups, agencies, or in-house teams looking to stay organized and ensure systematic execution of SEO strategies.
 
+output
+
+![Image](https://github.com/user-attachments/assets/8d6284b3-da66-432e-a054-0da328be2d7c)
+
 
 
 
