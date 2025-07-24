@@ -40,6 +40,10 @@ Where It Can Be Used:
 
 This document is intended to be adaptive for various industries and scalable based on team size and budget.
 
+output
+
+![Image](https://github.com/user-attachments/assets/34e8ee66-792c-4668-8eec-368d02fc711a)
+
 
 
 SEO implementation checklist 
